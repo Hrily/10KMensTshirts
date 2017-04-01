@@ -8,4 +8,4 @@ python men_tshirt.py
 
 The data will be stored in `info_<time>.csv` file
 
-Optionally, can als download images.
+Optionally, can also download images.
